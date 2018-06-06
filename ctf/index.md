@@ -16,21 +16,21 @@ Ruhr-Universität Bochum (Germany). This will be the seventh hack.lu CTF held by
 
 # Who
 
-Everyone may participate (onsite or offsite). If you want to win the prizes, you need to have at least one member of the team onsite.
+Everyone may participate (onsite or offsite). If you want to be eligible for prizes, you need to have at least one member of the team onsite **and** you need to show up at the organizer's registration desk at the conference **before the end of the CTF** so we can change your team status to local.
 
 # When
 
 The CTF will take place during the hack.lu conference and will last 48h hours like in the previous years.
 
-* CTF date not yet decided, but it will be during the conference (17-19 October 2017)
+* Tue, Oct. 17, 10:00 — Thu, Oct. 19, 10:00 UTC 
 
 # Topic
 
-> tba
+> FlatEarth
 
 # Registration
 
-Registration is not yet open
+Registration now open! Fill your form [here](https://flatearth.fluxfingers.net/register).
 
 # What
 
@@ -56,7 +56,7 @@ remote. Direct your questions to somebody at our booth or on
 
 # Points
 
-In order to balance points of misjudged challenges, we changed the bonus point algorithm this year. The bonus points will be calculated dynamically for each challenge, depending on how many teams solved it and how many solves were expected by our team. At the start of the CTF each normal challenge will have additional 100 bonus points, which will be decreased over time. The exact formula will be published when the CTF starts.
+In order to balance points of misjudged challenges, we apply a bonus point algorithm this year. The bonus points will be calculated dynamically for each challenge, depending on how many teams solved it and how many solves were expected by our team. At the start of the CTF each normal challenge will have additional 100 bonus points, which will be decreased over time. The exact formula will be published when the CTF starts.
 
 You will get your usual first blood points, too: First solve of a challenge yields 3 points, second 2 and third 1.
 
